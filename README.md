@@ -20,6 +20,7 @@ Students will fork and clone. Then we will add to the repo together
 # Question 5. How many ways can you declare a variable?
 # hit - 1 old school way
 # provide a few samples
+- Sorry, forgot to say three in my intial commit!
 - var a = 10 (numberical), var Guy = "Timmy" (string)
 - let x; then let x = 2020
 - const z = 33
