@@ -11,3 +11,8 @@ Students will fork and clone. Then we will add to the repo together
 -!Doctype html
 -<head> and </head>
 -<body> and </body>
+
+# Question 4. There are two ways to reference css styles in the header.
+# What are the two tags?
+- link tag
+- styling with selectors, class, id, element
